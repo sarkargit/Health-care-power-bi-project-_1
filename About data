@@ -1,0 +1,47 @@
+The dataset appears to contain a variety of health-related variables for patients. Here's a summary of the headings:
+
+1. **Demographic Information**:
+   - **Gender**: The patient's gender (male, female, etc.).
+   - **Race**: The patient's racial or ethnic background.
+   - **AgeGrp**: The age group the patient falls into (e.g., 18-30, 31-45, etc.).
+
+2. **Physical Measurements**:
+   - **Weight**: The patient's body weight.
+   - **Height**: The patient's body height.
+   - **BMI (Body Mass Index)**: A measure of body fat based on weight and height.
+   - **Overweight**: Indicates whether the patient is considered overweight based on BMI.
+
+3. **Health Conditions**:
+   - **HeartAttack**: Whether the patient has had a heart attack.
+   - **Stroke**: Whether the patient has experienced a stroke.
+   - **Diabetes**: Whether the patient has diabetes.
+   - **Diabetes2**: Specifically refers to Type 2 diabetes.
+   - **HBP (High Blood Pressure)**: Whether the patient has high blood pressure.
+   - **HBldChol (High Blood Cholesterol)**: Whether the patient has high blood cholesterol.
+   - **DiabetesFoot**: Whether the patient has diabetic foot complications.
+
+4. **Lifestyle Factors**:
+   - **Smoking**: Whether the patient smokes.
+   - **Exercise**: Whether the patient engages in regular physical activity.
+   - **Stress**: Indicates whether the patient experiences stress.
+
+5. **Health Monitoring**:
+   - **Health**: Overall health status of the patient (could be a rating or condition).
+   - **BloodPressure**: Blood pressure status (could be normal or elevated).
+   - **Cholesterol**: Cholesterol levels, possibly categorized as high or normal.
+
+6. **Diet & Habits**:
+   - **FruitsVeg**: Whether the patient consumes fruits and vegetables regularly.
+   - **HealthyHabits**: A general indication of the patient's healthy habits.
+   
+7. **Occupation**:
+   - **OccupationType**: The patient's job or occupation type.
+
+8. **Language & Preferences**:
+   - **PreferredLanguage**: The patient's preferred language for communication.
+
+9. **Health Risk**:
+   - **scnZone**: Could indicate a specific geographical zone or risk zone (unclear).
+   - **healthRisk**: The overall health risk level of the patient.
+
+In summary, the dataset includes a variety of factors related to the patient’s demographics, health conditions, lifestyle choices, and overall well-being, allowing for a comprehensive assessment of each patient’s health.
